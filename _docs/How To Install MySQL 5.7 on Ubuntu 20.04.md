@@ -1,3 +1,10 @@
+---
+title: How To Install MySQL 5.7 on Ubuntu 20.04
+tags: 
+ - shamsherkush
+ - github
+description: How To Install MySQL 5.7 on Ubuntu 20.04
+---
 #                   How To Install MySQL 5.7 on Ubuntu 20.04
 
 
