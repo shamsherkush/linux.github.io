@@ -1,3 +1,11 @@
+---
+title:  "How to Install and Configure Apache Tomcat 9 in CentOS 8/7"
+subtitle: "It's always a bit messy"
+author: "Shamsher Kushwaha"
+avatar: "img/authors/43068991.png"
+image: "img/apache-security-hardening-guide.png"
+date:   2020-11-29 20:51:12
+---
 ## How to Install and Configure Apache Tomcat 9 in CentOS 8/7
 
 ### Apache Tomcat is an open-source web server for a Java-based web application.

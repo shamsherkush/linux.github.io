@@ -1,4 +1,11 @@
-
+---
+title:  "Nagios"
+subtitle: "It's always a bit messy"
+author: "Shamsher Kushwaha"
+avatar: "img/authors/43068991.png"
+image: "img/apache-security-hardening-guide.png"
+date:   2020-11-29 20:51:12
+---
 
 ### Yum install php httpd gd* gd-devel gcc* glibc glibc-common wget perl parl-devel make net-snmp glib* -y 
 	# useradd –m nagios
