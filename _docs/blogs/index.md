@@ -7,7 +7,7 @@ tags:
 
 # Blogs
 
-Extras include other integrations that aren't relevant to style or customization,
+Blogs include other integrations that aren't relevant to style or customization,
 but can further enhance your documentation pages. Currently, we have support
 for adding interactive quizzes.
 
